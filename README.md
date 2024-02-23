@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I am currently working on my bachelor project in optimization with CVaR.
+- Fun fact: I work at PensionsPartner
+
 <!--
 **HansBlach/HansBlach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
